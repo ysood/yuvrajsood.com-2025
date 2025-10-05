@@ -160,7 +160,7 @@ export default function TourPage() {
               <div>
                 <Input
                   type="password"
-                  placeholder="Enter password"
+                  placeholder="Enter password (it's in my broadcast channel)"
                   value={password}
                   onChange={(e) => {
                     setPassword(e.target.value);
