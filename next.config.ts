@@ -5,8 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // If your repo is named differently, update this basePath
-  // basePath: '/your-repo-name',
+  basePath: '/yuvrajsood.com-2025',
 };
 
 export default nextConfig;
