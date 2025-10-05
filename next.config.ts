@@ -5,8 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/yuvrajsood.com-2025',
-  assetPrefix: '/yuvrajsood.com-2025',
+  // No basePath/assetPrefix needed for custom domain
 };
 
 export default nextConfig;
