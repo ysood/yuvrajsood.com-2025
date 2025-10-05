@@ -16,7 +16,6 @@ import {
 import {
   Form,
   FormControl,
-  FormDescription,
   FormField,
   FormItem,
   FormLabel,
@@ -204,8 +203,8 @@ export default function TourPage() {
       <div className="min-h-screen bg-black flex items-center justify-center px-4 py-8 md:py-12 relative">
         <div className="max-w-2xl text-center space-y-6">
           <p className="text-xl md:text-2xl text-zinc-400">
-            Your application has been submitted successfully. We'll be in touch
-            soon.
+            Your application has been submitted successfully. We&apos;ll be in
+            touch soon.
           </p>
         </div>
 
@@ -412,9 +411,9 @@ export default function TourPage() {
                       3 → Your experience*
                     </h3>
                     <p className="text-sm text-zinc-500 italic">
-                      Your experience will not negatively ffect your chances to
-                      get opportunities, it's primarily for us to build teams
-                      with varying experience.
+                      Your experience will not negatively affect your chances to
+                      get opportunities, it&apos;s primarily for us to build
+                      teams with varying experience.
                     </p>
                   </div>
 
